@@ -20,8 +20,16 @@
  "difficulty":"easy",
   "yogaImage":"https://thumbs.dreamstime.com/b/art-illustration-196931484.jpg"
   },
+
+ "Yoga4":{
+
+  "poseName":"standing forward bend pose",
+  "otherName":"uttanasana",
+  "difficulty":"easy",
+  "yogaImage":"https://us.123rf.com/450wm/lioputra/lioputra2202/lioputra220200006/183015419-woman-doing-standing-forward-bend-pose-uttanasana-exercise-flat-vector-illustration-isolated-on.jpg"
+},
  
-"Yoga4":{
+"Yoga5":{
 
   "poseName":"boat pose",
   "otherName":"navasana",
@@ -29,7 +37,7 @@
   "yogaImage":"https://www.yogaclassplan.com/wp-content/uploads/2021/06/22-boat-pose.jpg"
 },
 
-"Yoga5":{
+"Yoga6":{
 
   "poseName":"eagle pose",
   "otherName":"garudasana",
@@ -37,7 +45,7 @@
   "yogaImage":"https://pocketyoga.com/assets/images/full/Eagle_R.png"
 },
 
- "Yoga6":{
+ "Yoga7":{
 
   "poseName":"fish pose",
   "otherName":"matsyasana",
@@ -45,7 +53,7 @@
   "yogaImage":"https://www.yogaclassplan.com/wp-content/uploads/2021/06/fish.png"
 },
 
-"Yoga7":{
+"Yoga8":{
 
   "poseName":"scale pose",
   "otherName":"tolasana",
@@ -53,7 +61,7 @@
   "yogaImage":"https://www.enforme.fr/wp-content/uploads/2022/11/tolasana.jpg"
 },
 
- "Yoga8":{
+ "Yoga9":{
 
   "poseName":"crow pose",
   "otherName":"kakasana",
@@ -61,12 +69,12 @@
   "yogaImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0nZJ-lBPLZbglQ-zyV7DXaS6jaKyqriIww&usqp=CAU"
 },
 
-  "Yoga9":{
+  "Yoga10":{
 
   "poseName":"scorpion handstand pose",
   "otherName":"vrschikasana B",
   "difficulty":"advanced",
   "yogaImage":"https://thumbs.dreamstime.com/b/woman-doing-scorpion-pose-beautiful-girl-practice-vrschikasana-woman-doing-scorpion-pose-beautiful-girl-practice-vrschikasana-flat-254465490.jpg"
-}
+},
   
 }
